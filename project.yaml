@@ -1,12 +1,12 @@
 basic:
-    name: 'Krystina Gislason'
+    name: 'Leola Roob'
     breakpoints:
         - 640
         - 1024
         - 1200
     pages:
-        - 'https://www.veum.com/et-ab-totam-possimus-voluptates-aut-et-fuga.html'
-        - 'https://www.hermiston.info/'
+        - 'https://www.luettgen.net/velit-nihil-nostrum-ullam-nulla-neque-nesciunt'
+        - 'https://ullrich.biz/culpa-incidunt-dolor-doloribus-facere-quam'
     monitoring:
         days: {  }
         type: ''
