@@ -1,12 +1,12 @@
 basic:
-    name: 'Leola Roob'
+    name: 'Hildegard Braun Sr.'
     breakpoints:
         - 640
         - 1024
         - 1200
     pages:
-        - 'https://www.luettgen.net/velit-nihil-nostrum-ullam-nulla-neque-nesciunt'
-        - 'https://ullrich.biz/culpa-incidunt-dolor-doloribus-facere-quam'
+        - 'https://halvorson.net/est-perspiciatis-commodi-dicta-sunt-vel-ratione-animi.html'
+        - 'https://www.grant.com/'
     monitoring:
         days: {  }
         type: ''
@@ -22,9 +22,14 @@ advanced:
     custom_js: ''
     custom_css: ''
     mock_content: ''
+    sensitivity: 15
+    night_mode: ''
+    retina_images: ''
     performance:
         workers_production: 30
         workers_nonproduction: 10
         workers_production_delay: 0
         workers_nonproduction_delay: 0
     stabilize: true
+proxy: false
+type: multiple-sites
